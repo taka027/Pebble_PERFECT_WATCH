@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kanekotakashi2009@gmail.com",
+    "longName": "PERFECT_WATCH",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/watch_bg.png",
+                "name": "WATCH_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PERFECT_WATCH",
+    "uuid": "4e6f186e-36a7-44ef-a5ed-7f713e5c48f9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
